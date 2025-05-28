@@ -6,7 +6,7 @@ export default function Home() {
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
             <Image
               className="dark:invert"
-              src="/logo.svg"
+              src="/logo.png"
               alt="Vercel logomark"
               width={200}
               height={200}
